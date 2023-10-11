@@ -1,0 +1,9 @@
+# vim swp files
+*.swp
+
+# other
+coverage.out
+.idea/
+.DS_Store
+
+#data/
